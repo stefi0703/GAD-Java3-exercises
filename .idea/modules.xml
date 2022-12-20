@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GAD-Java3-exercises.iml" filepath="$PROJECT_DIR$/.idea/GAD-Java3-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsHomework/LoopsHomework.iml" filepath="$PROJECT_DIR$/LoopsHomework/LoopsHomework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsHomework/Problem1/Problem1.iml" filepath="$PROJECT_DIR$/LoopsHomework/Problem1/Problem1.iml" />
+    </modules>
+  </component>
+</project>
