@@ -3,6 +3,7 @@ package tests;
 import DataProviders.SignUpPageDataProvider;
 import Pages.SignUpPage;
 import Utils.SeleniumUtils;
+import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
