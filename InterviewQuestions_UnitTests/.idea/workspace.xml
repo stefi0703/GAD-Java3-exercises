@@ -4,15 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a585288-0dfc-4f13-87a1-a758b3949aa5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LeetCode141/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="fa8bf259-fdd5-405d-bee0-5412e9076038" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LeetCode34/Leetcode34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LeetCode9/Leetcode9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LeetCode141/LeetCode141.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LeetCode141/LeetCode141.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LeetCode141/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LeetCode141/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LeetCode34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LeetCode9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode141Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode141Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode34Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode34Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode9Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode9Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +39,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2J2LStmD0A8FqN2Hoago8dpTdFh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2KRqGmshDHAs40ltaunXfgK9f3R" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,45 +53,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/stefa/Desktop/repos/GAD-Java3-exercises/InterviewQuestions_UnitTests&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/stefa/Desktop/repos/GAD-Java3-exercises/InterviewQuestions_UnitTests&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.LeetCode34Test.check">
-    <configuration name="LeetCode141Test.checkHasCycle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InterviewQuestions_UnitTests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode141Test" />
-      <option name="METHOD_NAME" value="checkHasCycle" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode141Test.listOfAnSingleElementHasNotCycle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InterviewQuestions_UnitTests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode141Test" />
-      <option name="METHOD_NAME" value="listOfAnSingleElementHasNotCycle" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode34Test.check" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InterviewQuestions_UnitTests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode34Test" />
-      <option name="METHOD_NAME" value="check" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LeetCode9Test.checkPositiveNoTrue">
     <configuration name="LeetCode9Test.checkIfANegativeNumberIsNotPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewQuestions_UnitTests" />
       <option name="PACKAGE_NAME" value="" />
@@ -91,11 +68,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode9Test.checkIfIsPalindromeWorksProperly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCode9Test.checkIfZeroIsPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewQuestions_UnitTests" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LeetCode9Test" />
-      <option name="METHOD_NAME" value="checkIfIsPalindromeWorksProperly" />
+      <option name="METHOD_NAME" value="checkIfZeroIsPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode9Test.checkPositiveNo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewQuestions_UnitTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode9Test" />
+      <option name="METHOD_NAME" value="checkPositiveNo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode9Test.checkPositiveNoTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewQuestions_UnitTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode9Test" />
+      <option name="METHOD_NAME" value="checkPositiveNoTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode9Test.zeroCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewQuestions_UnitTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode9Test" />
+      <option name="METHOD_NAME" value="zeroCase" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,25 +110,26 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LeetCode34Test.check" />
-        <item itemvalue="JUnit.LeetCode141Test.listOfAnSingleElementHasNotCycle" />
-        <item itemvalue="JUnit.LeetCode141Test.checkHasCycle" />
+        <item itemvalue="JUnit.LeetCode9Test.checkPositiveNoTrue" />
+        <item itemvalue="JUnit.LeetCode9Test.checkPositiveNo" />
+        <item itemvalue="JUnit.LeetCode9Test.checkIfZeroIsPalindrome" />
+        <item itemvalue="JUnit.LeetCode9Test.zeroCase" />
         <item itemvalue="JUnit.LeetCode9Test.checkIfANegativeNumberIsNotPalindrome" />
-        <item itemvalue="JUnit.LeetCode9Test.checkIfIsPalindromeWorksProperly" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7a585288-0dfc-4f13-87a1-a758b3949aa5" name="Changes" comment="" />
-      <created>1671271238575</created>
+      <changelist id="fa8bf259-fdd5-405d-bee0-5412e9076038" name="Changes" comment="" />
+      <created>1673947650159</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1671271238575</updated>
-      <workItem from="1671271240049" duration="6495000" />
-      <workItem from="1671471280307" duration="446000" />
-      <workItem from="1671471742449" duration="1176000" />
+      <updated>1673947650159</updated>
+      <workItem from="1673947651691" duration="681000" />
+      <workItem from="1674135923508" duration="198000" />
+      <workItem from="1675081260451" duration="538000" />
+      <workItem from="1675081906173" duration="5658000" />
     </task>
     <servers />
   </component>
